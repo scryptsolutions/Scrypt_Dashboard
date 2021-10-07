@@ -1,0 +1,39 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N803" />
+          <option value="N802" />
+          <option value="N801" />
+          <option value="N806" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="dict.__getitem__" />
+          <option value="str.privateGetAccount" />
+          <option value="str.privateGetWalletDeposits" />
+          <option value="str.private_get_funding_payments" />
+          <option value="str.privateGetOrdersHistory" />
+          <option value="str.privateGetFills" />
+          <option value="str.fetch_ohlcv" />
+          <option value="str.fetch_ticker" />
+          <option value="str.fetchTickers" />
+          <option value="str.fetchOrderBook" />
+          <option value="str.fetchTicker" />
+          <option value="str.public_get_funding_rates" />
+          <option value="str.load_markets" />
+          <option value="str.fetchMyTrades" />
+          <option value="str.fetch_funding_history" />
+          <option value="str.market" />
+          <option value="str.fapiPublic_get_fundingrate" />
+          <option value="str.fetch_tickers" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
